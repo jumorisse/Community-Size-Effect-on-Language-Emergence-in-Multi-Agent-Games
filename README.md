@@ -1,7 +1,3 @@
-# Community Size Effect on Language Emergence in Multi Agent Games
+# Community Size Effects on Language Emergence in a Multi-Agent Game
 
-All scripts needed to replicate the study.
 
-Directories:
-
-Files:
